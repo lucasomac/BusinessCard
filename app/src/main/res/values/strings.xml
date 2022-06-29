@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="label_business_cards">Cartão de Visita</string>
+    <string name="add_business_card_description">Botão - Adicionar cartão de visita</string>
+    <string name="label_new_business_card">Novo cartão</string>
+    <string name="label_name">Nome</string>
+    <string name="label_close_register_description">Botão fechar adicionar cartão</string>
+    <string name="field_name_description">Campo de inserção de nome</string>
+    <string name="label_phone_number">Telefone</string>
+    <string name="label_email_address">E-mail</string>
+    <string name="label_add_business_card">Adicionar</string>
+    <string name="label_company">Empresa</string>
+    <string name="label_color">Cor</string>
+    <string name="label_show_sucess">Cartão cadastrado com sucesso</string>
+    <string name="label_share">Compartilhar</string>
+</resources>
